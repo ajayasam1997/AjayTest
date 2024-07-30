@@ -1,0 +1,39 @@
+19:56:03.779 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:56:03.924 [TestNG-tests-2] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:56:03.924 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:56:04.276 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:56:04.905 [TestNG-tests-1] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:56:04.909 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:57:28.651 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:57:28.663 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:57:31.017 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:57:31.017 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:57:42.736 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:57:58.135 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:57:58.192 [TestNG-tests-1] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:57:58.192 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:57:58.329 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:57:58.780 [TestNG-tests-2] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:57:58.780 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:58:27.829 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:58:27.829 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:58:27.843 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:58:27.843 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:58:28.760 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:58:28.834 [TestNG-tests-1] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:58:28.834 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:58:29.001 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:58:29.242 [TestNG-tests-2] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:58:29.242 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:58:57.239 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:58:57.246 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:58:57.678 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:58:57.679 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:59:22.774 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:59:22.809 [TestNG-tests-2] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:59:22.811 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:59:22.814 [TestNG-tests-1] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:59:22.814 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:59:45.600 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:59:45.611 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:59:58.726 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********

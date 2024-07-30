@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 1.228 s <<< FAILURE! - in TestSuite
+setUp(testCases.TC_002_LoginTest)  Time elapsed: 0.844 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'os' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+
+setUp(testCases.TC__001_AccountRegistrationTest)  Time elapsed: 0.017 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'os' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+

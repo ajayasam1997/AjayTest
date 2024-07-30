@@ -1,0 +1,39 @@
+20:08:45.480 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********Registration completed ***********
+20:08:45.493 [main] INFO  testCases.TC__001_AccountRegistrationTest - ============TC_001 Account RegsitrationTest done============
+20:08:45.493 [main] INFO  testCases.TC__001_AccountRegistrationTest - ******Finished TC 001 Account Registration test******
+20:08:50.650 [main] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+20:08:50.652 [main] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+20:09:54.627 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+20:09:54.753 [main] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+20:09:54.754 [main] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+20:11:05.056 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+20:11:05.077 [TestNG-test=ChromeTest-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+20:11:08.932 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+20:11:09.110 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+20:11:09.333 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********firstName Passed***********
+20:11:09.522 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********lastName Passed***********
+20:11:09.741 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********day Passed***********
+20:11:09.921 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********month Passed***********
+20:11:10.116 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********year Passed***********
+20:11:10.413 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********Email written***********
+20:11:10.525 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on newsletter***********
+20:11:10.826 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********entered  Password***********
+20:11:11.113 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********passsword confirmed***********
+20:11:12.195 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button***********
+20:11:12.247 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********Registration completed ***********
+20:11:12.247 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - ============TC_001 Account RegsitrationTest done============
+20:11:12.247 [TestNG-test=ChromeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - ******Finished TC 001 Account Registration test******
+20:11:18.098 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+20:11:18.099 [TestNG-test=EdgeTest-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+20:11:23.393 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+20:11:23.585 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+20:11:23.776 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********firstName Passed***********
+20:11:23.951 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********lastName Passed***********
+20:11:24.157 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********day Passed***********
+20:11:24.347 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********month Passed***********
+20:11:24.536 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********year Passed***********
+20:11:24.763 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********Email written***********
+20:11:24.905 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on newsletter***********
+20:11:25.190 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********entered  Password***********
+20:11:25.425 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********passsword confirmed***********
+20:11:26.952 [TestNG-test=EdgeTest-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button***********

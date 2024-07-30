@@ -1,0 +1,45 @@
+19:42:35.196 [main] INFO  testCases.TC_002_LoginTest - *********Starting loginTest*******
+19:45:01.013 [main] INFO  testCases.TC_002_LoginTest - clicked on login button in homePage
+19:45:01.258 [main] INFO  testCases.TC_002_LoginTest - emailId entered
+19:45:01.433 [main] INFO  testCases.TC_002_LoginTest - password entered
+19:45:01.536 [main] INFO  testCases.TC_002_LoginTest - Check box clicked
+19:45:06.426 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *********Starting loginTest*******
+19:45:12.414 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:45:12.417 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:45:13.655 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Button
+19:45:23.617 [main] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:45:23.617 [main] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:45:24.704 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:45:24.894 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:45:25.163 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********firstName Passed***********
+19:45:25.416 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********lastName Passed***********
+19:45:25.859 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********day Passed***********
+19:45:26.048 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********month Passed***********
+19:45:26.228 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********year Passed***********
+19:45:26.521 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********Email written***********
+19:45:26.665 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on newsletter***********
+19:45:26.912 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********entered  Password***********
+19:45:27.173 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********passsword confirmed***********
+19:45:28.540 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button***********
+19:45:28.592 [main] INFO  testCases.TC__001_AccountRegistrationTest - **********Registration completed ***********
+19:45:28.592 [main] INFO  testCases.TC__001_AccountRegistrationTest - ============TC_001 Account RegsitrationTest done============
+19:45:28.592 [main] INFO  testCases.TC__001_AccountRegistrationTest - ******Finished TC 001 Account Registration test******
+19:45:30.698 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - clicked on login button in homePage
+19:45:31.683 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:45:31.962 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:45:32.192 [TestNG-tests-2] ERROR testCases.TC__001_AccountRegistrationTest - logger.info("============TC_001 Account RegsitrationTest failed============");
+19:45:32.192 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Registration failed
+19:46:30.610 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:46:30.710 [TestNG-tests-1] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:46:32.167 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - *******Account Registration started*********
+19:46:32.168 [TestNG-tests-2] DEBUG testCases.TC__001_AccountRegistrationTest - Debug logging started i.e Application logs
+19:46:33.344 [TestNG-tests-1] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:46:34.047 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on register button Passed***********
+19:46:34.233 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********gender Passed***********
+19:46:34.500 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********firstName Passed***********
+19:46:34.763 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********lastName Passed***********
+19:46:35.193 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********day Passed***********
+19:46:35.587 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********month Passed***********
+19:46:36.014 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********year Passed***********
+19:46:36.700 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********Email written***********
+19:46:37.001 [TestNG-tests-2] INFO  testCases.TC__001_AccountRegistrationTest - **********clicked on newsletter***********
